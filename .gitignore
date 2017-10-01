@@ -1,3 +1,4 @@
 .T
 *.log
 log/
+.nonsense.log.swp
